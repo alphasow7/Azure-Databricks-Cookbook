@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="azure-cosmosdb-spark_2.4.0_2.11-3.6.14-uber">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Chapter02/azure-cosmosdb-spark_2.4.0_2.11-3.6.14-uber.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
